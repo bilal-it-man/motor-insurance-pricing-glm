@@ -1,0 +1,13 @@
+"metric","value"
+"cv_model_gini_mean",0.00809334595697149
+"cv_model_gini_sd",0.0758425409487385
+"cv_freq_gini_mean",0.0762770089666688
+"cv_freq_gini_sd",0.0035499269816267
+"oof_model_gini",0.00864390606247456
+"oof_freq_gini",0.0762222316597544
+"oof_attritional_gini",0.00771954358787763
+"attritional_baseline_mean",0.000213792716294128
+"attritional_baseline_sd",0.00673642632503677
+"attritional_ci_lower",-0.00891031991702282
+"attritional_ci_upper",0.0238197530792071
+"global_cap",16327.00055

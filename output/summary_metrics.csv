@@ -1,0 +1,9 @@
+"metric","value"
+"baseline_pure_premium",159.215464688847
+"lift_decile10_vs_decile1",1.03720700390598
+"freq_only_gini",0.0590392773597225
+"model_gini",0.031907671227262
+"baseline_gini_mean",-0.0159939951346814
+"baseline_gini_sd",0.168564656768621
+"large_loss_threshold",16358.1347
+"excess_loading",537.911446353436
