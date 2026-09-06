@@ -1,0 +1,7 @@
+"metric","value"
+"cv_model_gini_mean",0.00809334595697149
+"cv_model_gini_sd",0.0758425409487385
+"cv_freq_gini_mean",0.0762770089666688
+"cv_freq_gini_sd",0.0035499269816267
+"boot_ci_lower",-0.116171970154262
+"boot_ci_upper",0.136281345320089
